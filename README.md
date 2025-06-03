@@ -12,6 +12,14 @@ Utilizing machine learning through data analytics enables the effective classifi
 
 # Conclusion
 
+# Resources
+
+2016 Dataset
+https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
+
+2023-24 Dataset
+https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?resource=download
+
 # Credits
 
 Jackson Popelka- HeatMap, Analysis Coding https://www.linkedin.com/in/jackson-popelka-b04755340/
