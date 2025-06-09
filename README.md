@@ -41,11 +41,24 @@ For fake job postings specifically, our model achieved an F1 score of 0.75, with
 This indicates that while the model is exceptionally accurate at identifying real job postings, it correctly identifies approximately 60% of fake jobs—a commendable achievement given the low class count of only 173 fake jobs in the test set. 
 The high precision on fake jobs also means there are very few false alarms, ensuring reliable performance in practical applications.
 
+Looking at the provided pie chart, we can see that in 2016, approximately 4.8% of online job listings were fraudulent, while 95.2% were legitimate. 
+Although 4.8% may seem like a small fraction, it's important to note that these fake listings often targeted high-demand job titles. 
+As a result, even a small percentage of fake jobs could attract a large number of applicants, increasing the risk for many job seekers.
+![image](https://github.com/user-attachments/assets/47057570-d838-4949-a0c8-999d5c5a0093)
+
+This bar chart displays the top 10 most frequently listed real job titles, offering insight into genuine employment opportunities. 
+"English Teacher Abroad" stands out as the most listed role, with nearly 300 postings, indicating strong demand for English educators internationally. 
+Other prominent positions include “Customer Service Associate,” “Software Engineer,” and “Account Manager”.
+English Teacher being a recurring genuine job listing
 ![image](https://github.com/user-attachments/assets/df07f86e-64fc-4395-b07f-28743e0efab7)
 
+This bar chart highlights the top 10 most commonly listed fake job titles. 
+The most frequently reported fake listings include positions like “Data Entry Admin/Clerical Positions - Work From Home” and “Home Based Payroll Typist/Data Entry Clerks Positions”. 
+Other deceptive roles include “Cruise Staff”, “Customer Service Representative,” and “Payroll Data Coordinator.” 
+These scams often target job seekers with remote work offers or high daily earnings. 
+The chart serves as a cautionary reminder to verify job listings, especially those that sound too good to be true.
 ![image](https://github.com/user-attachments/assets/d149e311-ebaa-405e-9dfe-57a6b9c18a38)
 
-![image](https://github.com/user-attachments/assets/47057570-d838-4949-a0c8-999d5c5a0093)
 
 # Conclusion
 
