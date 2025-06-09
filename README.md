@@ -59,6 +59,16 @@ These scams often target job seekers with remote work offers or high daily earni
 The chart serves as a cautionary reminder to verify job listings, especially those that sound too good to be true.
 ![image](https://github.com/user-attachments/assets/d149e311-ebaa-405e-9dfe-57a6b9c18a38)
 
+## Key Differences
+
+The data comparison between 2016 and 2024 reveals a dramatic decline in job fraud. 
+In 2016, there were 866 fraudulent job listings out of 17,014 real ones, resulting in a fraud rate of approximately 4.84%. 
+
+By 2024, only 8 fraudulent jobs were recorded among 123,841 real listings, bringing the fraud rate down to a mere 0.0065%. 
+
+This data highlights two key possibilities. First, the sharp decline in fake job postings points to notable advancements in fraud detection and overall platform security. Second, it also raises the possibility that, in today’s increasingly tech-savvy landscape, fraudulent listings may be better disguised—potentially making them harder to detect and more likely to appear legitimate.
+
+The 2024 dataset lacks explicit fraud labels, making it a valuable test case for evaluating how well a machine learning model can generalize and identify fraudulent postings in real-world, unlabeled scenarios. 
 
 # Conclusion
 
